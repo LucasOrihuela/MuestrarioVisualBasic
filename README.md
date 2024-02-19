@@ -43,6 +43,6 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 ## Contacto
 
-Para cualquier pregunta o comentario, por favor contacta al equipo de desarrollo en [correo electrónico](mailto:tuemail@example.com).
+Para cualquier pregunta o comentario, por favor contacta al equipo de desarrollo en lucasorihuela18@gmail.com
 
 ¡Gracias por usar nuestro sistema!
