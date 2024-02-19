@@ -27,19 +27,8 @@ Este proyecto es un sistema desarrollado en Visual Basic en entorno .NET utiliza
    - Para el ABM de Clientes: ir a la sección correspondiente y seguir las instrucciones en pantalla.
    - Para el ABM de Productos: ir a la sección correspondiente y seguir las instrucciones en pantalla.
    - Para el ABM de Ventas: ir a la sección correspondiente y seguir las instrucciones en pantalla.
-   - Para la búsqueda de Clientes: ir a la sección correspondiente, ingresar los criterios de búsqueda y seguir las instrucciones en pantalla.
-   - Para la búsqueda de Productos: ir a la sección correspondiente, ingresar los criterios de búsqueda y seguir las instrucciones en pantalla.
-   - Para la búsqueda de Ventas: ir a la sección correspondiente, ingresar los criterios de búsqueda y seguir las instrucciones en pantalla.
 
-## Contribución
 
-Si deseas contribuir al proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/feature-name`).
-3. Realiza tus cambios y haz commit de ellos (`git commit -am 'Add new feature'`).
-4. Sube tu rama (`git push origin feature/feature-name`).
-5. Abre un Pull Request.
 
 ## Contacto
 
